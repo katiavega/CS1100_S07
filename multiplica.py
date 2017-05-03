@@ -1,7 +1,5 @@
 m = int(input())
-
 n = int(input())
-
 p = 0
 
 while m > 0:
